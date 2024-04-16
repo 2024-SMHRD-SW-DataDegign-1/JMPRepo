@@ -13,7 +13,8 @@ public class Ex01 {
 		
 		System.out.println("팀원1 커밋");
 		
-		// 2
+		System.out.println("2024-04-16 화요일 GitHub");
+		System.out.println("TESTING...");
 	}
 
 }
